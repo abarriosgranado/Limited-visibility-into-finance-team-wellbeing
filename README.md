@@ -1,6 +1,4 @@
-Claro. Para GitHub, lo dejaría como un `README.md` bien estructurado así:
 
-```md
 # Limited Visibility into Finance Team Wellbeing
 
 ## Overview
@@ -64,12 +62,12 @@ The work included:
 
 ## Documents
 
-- `Finance team wellbeing form.pdf`
-- `Finance team wellbeing dashboard.png`
+- [Finance team wellbeing form](Finance%20team%20wellbeing%20form.pdf)
+- [Finance team wellbeing dashboard preview](Finance%20team%20wellbeing%20dashboard%20preview.png)
 
 ## Dashboard Preview
 
-![Finance team wellbeing dashboard](Finance%20team%20wellbeing%20dashboard.png)
+![Finance team wellbeing dashboard preview](Finance%20team%20wellbeing%20dashboard%20preview.png)
 
 ## Full Finance Automation Roadmap
 
